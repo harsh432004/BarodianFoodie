@@ -21,7 +21,7 @@ const CardShimmer = () => {
 
 export const MenuShimmer = () => {
   return (
-    <div className="restaurant-menu shimmer-width">
+    <div className="restaurant-menu shimmer-width"> 
       <div className="restaurant-summary stroke-color animate">
         <img className="shimmer-img stroke animate" />
         <div className="restaurant-summary-details">

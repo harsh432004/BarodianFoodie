@@ -50,3 +50,4 @@ Thumbs.db
 
 # parcel files
 .parcel-cache
+.vercel
